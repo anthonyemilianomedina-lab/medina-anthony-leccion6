@@ -14,3 +14,7 @@ const firebaseConfig = {
   appId: "1:449537794321:web:bd4b36092055cd5929acb0",
   databaseURL: "https://medina-anthony2025-c9574-default-rtdb.firebaseio.com/"
 };
+
+npm install
+npm run dev
+
