@@ -15,6 +15,13 @@ const firebaseConfig = {
   databaseURL: "https://medina-anthony2025-c9574-default-rtdb.firebaseio.com/"
 };
 
+### Cómo ejecutar el proyecto
+
+```bash
+1. Instalar dependencias
 npm install
+
+2. Ejecutar el proyecto
 npm run dev
+
 
